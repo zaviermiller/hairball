@@ -15,7 +15,7 @@ You can add your tool of choice for converting .doc[x] files to .pdf by modifyin
 3. Download the CSV of our member directory spreadsheet
 4. Run the following command:
 
-```
+```sh
 node hairball.js <path to member csv> <path to resume folder>
 ```
 
